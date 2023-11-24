@@ -1,7 +1,9 @@
-Tầm nhìn
+Vision
+
 App Specific Chain
 
-Miêu tả
+Description
+
 I. Project Overview: Creating a Web3 project using the Polkadot ecosystem involves building a decentralized application (dApp) ecosystem with various components such as SaigonChain, SaigonToken, SaigonPay, SaigonWallet, SaigonNFTs, and SaigonPeople.
 
 1.1 SaigonChain:
